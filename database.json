@@ -1,0 +1,24 @@
+{
+  "tuppers": [
+    {
+      "id": 1,
+      "userId": "878100860486438942",
+      "name": "sexo1",
+      "avatarUrl": "https://cdn.discordapp.com/attachments/1433496928552751195/1530008809345646674/141b58eb-e598-4241-9a8d-a9bf25eedee9.png?ex=6a64033e&is=6a62b1be&hm=a032a5acd1c52fbd75c012bcbd1f58ada0e1e0b8ab69a3bd805f40cec9e57462&",
+      "syntax": "sexo1:",
+      "isGlobal": 0,
+      "guildId": "1433460911514849352",
+      "createdAt": "2026-07-24T00:26:51.572Z"
+    },
+    {
+      "id": 2,
+      "userId": "878100860486438942",
+      "name": "teste2",
+      "avatarUrl": "teste2:",
+      "syntax": "https://cdn.discordapp.com/attachments/1433496928552751195/1530009939941265448/141b58eb-e598-4241-9a8d-a9bf25eedee9.png?ex=6a64044b&is=6a62b2cb&hm=49de67025aab7cc0010141c70c4bb1c01aa6557f0f09d75dee54ab483675aa1a&",
+      "isGlobal": 0,
+      "guildId": "1433460911514849352",
+      "createdAt": "2026-07-24T00:33:20.155Z"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "bot-tupper",
+  "version": "1.0.0",
+  "description": "Bot estilo Tupperbox para Discord",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "register": "node src/deploy-commands.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^13.0.1",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
